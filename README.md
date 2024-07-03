@@ -35,8 +35,8 @@ https://github.com/muzeffertagiyev/BOOKING_COM_SELENIUM_BOT/assets/75939608/9ddf
 3. **Example Interaction**
     ```bash
     Where do you go? (city name): New York
-    Check in date(yyyy-mm-dd): 2023-08-01
-    Check out date(yyyy-mm-dd): 2023-08-05
+    Check in date(yyyy-mm-dd): 2024-07-21
+    Check out date(yyyy-mm-dd): 2024-07-24
     Number of people: 2
     Please add your email: example@example.com
     ```
