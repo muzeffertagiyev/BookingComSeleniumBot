@@ -13,12 +13,10 @@ This project is a Selenium bot that automates the process of searching for hotel
 - **Customizable Currency**: Change the currency for displayed prices.
 
 ## Demo Video
-
-[Watch the demo video](#) (
-
+ 
 https://github.com/muzeffertagiyev/BOOKING_COM_SELENIUM_BOT/assets/75939608/9ddf78ae-d36d-46a3-841b-2398f6c0d988
 
-)
+
 
 
 ## Usage
